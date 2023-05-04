@@ -1,11 +1,8 @@
-1) practice dot env package by adding environmental variables on your own
-2) and ty all the examples in local - external packages
-3) Practice bycrypt js examples (try with both sync and async methods);
-4) Play around with JWT
-5) Cookies KT
+What is middleware in node js  
+Express js basic server
+Morgan Http Logger work aroundb
+
+how to handle static files in Express without path module
+morgan work around
 
 
-
-
-
-                                                                                                     
