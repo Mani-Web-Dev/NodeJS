@@ -1,0 +1,50 @@
+Node JS core modules
+-----------------------
+OS module
+fs - File System
+path = path module
+http module
+url module
+
+
+Nodemon
+
+External modules
+----------------
+Express js
+Mongo db
+Mongoose
+My SQL
+JWT
+Bycrypt
+dotenv
+chalk
+morgan
+
+
+
+
+JWT
+
+jwt.sign();
+jwt.verify();
+
+
+bycrypt
+
+genSalt()
+hash()
+compare()
+
+Express
+JS web framework
+
+
+Morgan 
+http Logger
+
+
+chalk 
+terminal styles
+
+
