@@ -6,3 +6,8 @@ how to handle static files in Express without path module
 morgan work around
 
 
+
+
+play around with express router
+
+
